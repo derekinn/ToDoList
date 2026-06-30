@@ -1,0 +1,14 @@
+C:\Users\derick.silva\source\repos\Aulas-POO\ToDoList\obj\Debug\net10.0\ToDoList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\derick.silva\source\repos\Aulas-POO\ToDoList\obj\Debug\net10.0\ToDoList.AssemblyInfoInputs.cache
+C:\Users\derick.silva\source\repos\Aulas-POO\ToDoList\obj\Debug\net10.0\ToDoList.AssemblyInfo.cs
+C:\Users\derick.silva\source\repos\Aulas-POO\ToDoList\obj\Debug\net10.0\ToDoList.csproj.CoreCompileInputs.cache
+C:\Users\derick.silva\source\repos\Aulas-POO\ToDoList\bin\Debug\net10.0\ToDoList.exe
+C:\Users\derick.silva\source\repos\Aulas-POO\ToDoList\bin\Debug\net10.0\ToDoList.deps.json
+C:\Users\derick.silva\source\repos\Aulas-POO\ToDoList\bin\Debug\net10.0\ToDoList.runtimeconfig.json
+C:\Users\derick.silva\source\repos\Aulas-POO\ToDoList\bin\Debug\net10.0\ToDoList.dll
+C:\Users\derick.silva\source\repos\Aulas-POO\ToDoList\bin\Debug\net10.0\ToDoList.pdb
+C:\Users\derick.silva\source\repos\Aulas-POO\ToDoList\obj\Debug\net10.0\ToDoList.dll
+C:\Users\derick.silva\source\repos\Aulas-POO\ToDoList\obj\Debug\net10.0\refint\ToDoList.dll
+C:\Users\derick.silva\source\repos\Aulas-POO\ToDoList\obj\Debug\net10.0\ToDoList.pdb
+C:\Users\derick.silva\source\repos\Aulas-POO\ToDoList\obj\Debug\net10.0\ToDoList.genruntimeconfig.cache
+C:\Users\derick.silva\source\repos\Aulas-POO\ToDoList\obj\Debug\net10.0\ref\ToDoList.dll
